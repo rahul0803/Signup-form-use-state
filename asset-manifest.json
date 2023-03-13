@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Signup-form-use-state/static/css/main.f35f52a0.css",
+    "main.js": "/Signup-form-use-state/static/js/main.e9ec1e9b.js",
+    "index.html": "/Signup-form-use-state/index.html",
+    "main.f35f52a0.css.map": "/Signup-form-use-state/static/css/main.f35f52a0.css.map",
+    "main.e9ec1e9b.js.map": "/Signup-form-use-state/static/js/main.e9ec1e9b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f35f52a0.css",
+    "static/js/main.e9ec1e9b.js"
+  ]
+}
